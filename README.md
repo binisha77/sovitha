@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm sovitha khadka</h1>
-<h3 align="center">A passionate fullstack develoerper from Nepal</h3>
+<h3 align="center">A passionate fullstack developer from Nepal</h3>
 
 - 🔭 I’m currently working on [MERNProject](https://github.com/binisha77/MERNProject.git)
 
